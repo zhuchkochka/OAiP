@@ -1,0 +1,3 @@
+﻿  FileCompressor.cpp
+C:\Users\user\Desktop\курсач оаип бгуир\FileComperessor\FileCompressor.cpp(140,92): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  FileCompressor.vcxproj -> C:\Users\user\Desktop\курсач оаип бгуир\FileComperessor\x64\Debug\FileCompressor.exe
